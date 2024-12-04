@@ -1,2 +1,2 @@
-# 简易的学生信息管理系统
-基于php+mysql<br>初次使用会提示初始化数据库。
+# student information management system
+Based on php+mysql<br>You will be prompted to initialize the database when you use it for the first time.
